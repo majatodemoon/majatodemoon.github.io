@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Maja to De Moon
 
 You can use the [editor on GitHub](https://github.com/majatodemoon/majatodemoon.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
