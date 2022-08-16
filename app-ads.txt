@@ -1,3 +1,6 @@
+google.com, pub-3498075841962819, DIRECT, f08c47fec0942fa0
+applovin.com, 2e1cdc86339a8f5fb588af532ec355c4, DIRECT
+facebook.com, 539125711241511, DIRECT, c3e20eee3f780d68
 inmobi.com, 5388b009676e48769c8d05d5c7cc3e52, DIRECT, 83e75a7ae333ca9d
 engagebdr.com, 16, RESELLER
 vidoomy.com, 60653, RESELLER
